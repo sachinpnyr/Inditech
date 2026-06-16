@@ -1,0 +1,851 @@
+{
+  "categories": [
+    {
+      "id": "wrist-straps",
+      "name": "Wrist Straps & Cords",
+      "blurb": "Personnel grounding at the wrist \u2014 the first line of static defense for any operator handling sensitive components.",
+      "products": [
+        {
+          "id": "ws-fabric-single",
+          "name": "Single-Wire Adjustable Fabric Wrist Strap",
+          "spec": "1 M\u03a9 resistor \u00b7 adjustable band",
+          "query": "ESD adjustable fabric wrist strap blue band",
+          "image": "/manus-storage/ws-fabric-single_d593828c.jpg"
+        },
+        {
+          "id": "ws-metal-single",
+          "name": "Single-Wire Metal Wrist Strap",
+          "spec": "Stainless expandable band",
+          "query": "ESD metal expandable wrist strap stainless",
+          "image": "/manus-storage/ws-metal-single_5a8e0251.jpg"
+        },
+        {
+          "id": "ws-thermoplastic",
+          "name": "Single-Wire Thermoplastic Wrist Strap",
+          "spec": "Hypoallergenic thermoplastic",
+          "query": "ESD thermoplastic wrist strap",
+          "image": "/manus-storage/ws-thermoplastic_af5ff71b.jpg"
+        },
+        {
+          "id": "ws-disposable",
+          "name": "Disposable Wrist Strap",
+          "spec": "Single-use \u00b7 elastic",
+          "query": "ESD disposable wrist strap",
+          "image": "/manus-storage/ws-disposable_4f663850.jpg"
+        },
+        {
+          "id": "ws-dual-magsnap",
+          "name": "Dual-Wire MagSnap Wrist Strap",
+          "spec": "Magnetic dual-conductor",
+          "query": "ESD dual wire magsnap wrist strap",
+          "image": "/manus-storage/ws-dual-magsnap_d8979a20.jpg"
+        },
+        {
+          "id": "ws-dual-fabric",
+          "name": "Dual-Wire Adjustable Fabric Wrist Strap",
+          "spec": "Dual-conductor monitoring",
+          "query": "ESD dual conductor fabric wrist strap",
+          "image": "/manus-storage/ws-dual-fabric_d51a47fe.jpg"
+        },
+        {
+          "id": "coil-single",
+          "name": "Single-Wire Coil Cord",
+          "spec": "Coiled \u00b7 1 M\u03a9 \u00b7 banana/snap",
+          "query": "ESD coil cord grounding black",
+          "image": "/manus-storage/coil-single_35657889.jpg"
+        },
+        {
+          "id": "coil-dual",
+          "name": "Dual-Wire Coil Cord",
+          "spec": "Dual-conductor coiled cord",
+          "query": "ESD dual wire coil cord",
+          "image": "/manus-storage/coil-dual_0a43ddde.jpg"
+        },
+        {
+          "id": "ws-band-only",
+          "name": "Replacement Wrist Band",
+          "spec": "Band only \u00b7 fabric",
+          "query": "ESD wrist band replacement fabric",
+          "image": "/manus-storage/ws-band-only_9e7ea601.jpg"
+        },
+        {
+          "id": "ws-lotion",
+          "name": "ESD Hand Lotion",
+          "spec": "Static-dissipative skin lotion",
+          "query": "ESD hand lotion bottle",
+          "image": "/manus-storage/ws-lotion_8b8d8616.jpg"
+        }
+      ]
+    },
+    {
+      "id": "foot-grounding",
+      "name": "Foot Grounding",
+      "blurb": "Grounding for operators who move \u2014 heel, toe, and sole grounders plus conductive footwear for standing or walking work.",
+      "products": [
+        {
+          "id": "heel-standard",
+          "name": "Standard Heel Grounder",
+          "spec": "1 M\u03a9 \u00b7 conductive ribbon",
+          "query": "ESD heel grounder strap",
+          "image": "/manus-storage/heel-standard_78d76535.jpg"
+        },
+        {
+          "id": "heel-cup",
+          "name": "Cup-Style Heel Grounder",
+          "spec": "Two-sole rubber cup",
+          "query": "ESD cup style heel grounder rubber",
+          "image": "/manus-storage/heel-cup_98d4cfc0.jpg"
+        },
+        {
+          "id": "heel-disposable",
+          "name": "Disposable Heel Grounder",
+          "spec": "Single-use",
+          "query": "ESD disposable heel grounder",
+          "image": "/manus-storage/heel-disposable_180cbaa9.jpg"
+        },
+        {
+          "id": "toe-grounder",
+          "name": "Toe Grounder",
+          "spec": "Toe-mount conductive",
+          "query": "ESD toe grounder",
+          "image": "/manus-storage/toe-grounder_b690e314.jpg"
+        },
+        {
+          "id": "sole-grounder",
+          "name": "Sole Grounder / Sole Strap",
+          "spec": "Full-sole conductive",
+          "query": "ESD sole grounder strap",
+          "image": "/manus-storage/sole-grounder_d7a72a05.jpg"
+        },
+        {
+          "id": "full-coverage-grounder",
+          "name": "Full-Coverage Foot Grounder",
+          "spec": "Full-foot grounding",
+          "query": "ESD full coverage foot grounder",
+          "image": "/manus-storage/full-coverage-grounder_2d93cff5.jpg"
+        },
+        {
+          "id": "esd-shoes",
+          "name": "ESD Cleanroom Shoes",
+          "spec": "Conductive sole footwear",
+          "query": "ESD cleanroom shoes white",
+          "image": "/manus-storage/esd-shoes_75e5309e.jpg"
+        },
+        {
+          "id": "esd-booties",
+          "name": "Conductive Shoe Covers / Booties",
+          "spec": "Disposable conductive",
+          "query": "ESD conductive shoe covers booties",
+          "image": "/manus-storage/esd-booties_2b8178ea.jpg"
+        }
+      ]
+    },
+    {
+      "id": "garments",
+      "name": "ESD Garments & PPE",
+      "blurb": "Conductive-thread apparel and personal protective equipment that contains static-generating clothing inside the cleanroom.",
+      "products": [
+        {
+          "id": "smock-dual",
+          "name": "Dual-Wire ESD Smock",
+          "spec": "Grounded cuff system",
+          "query": "ESD smock blue cleanroom jacket",
+          "image": "/manus-storage/smock-dual_76f8ff28.jpg"
+        },
+        {
+          "id": "smock-single",
+          "name": "Single-Wire ESD Smock",
+          "spec": "Conductive grid fabric",
+          "query": "ESD smock jacket",
+          "image": "/manus-storage/smock-single_cc07af5b.jpg"
+        },
+        {
+          "id": "lab-coat",
+          "name": "ESD Lab Coat",
+          "spec": "Static-safe coat",
+          "query": "ESD lab coat white",
+          "image": "/manus-storage/lab-coat_a9ebf2a4.jpg"
+        },
+        {
+          "id": "coverall",
+          "name": "ESD Coverall / Bunny Suit",
+          "spec": "Full-body cleanroom",
+          "query": "cleanroom coverall bunny suit white",
+          "image": "/manus-storage/coverall_742fa619.jpg"
+        },
+        {
+          "id": "hood",
+          "name": "ESD Hood",
+          "spec": "Head & neck coverage",
+          "query": "cleanroom ESD hood",
+          "image": "/manus-storage/hood_827fe789.jpg"
+        },
+        {
+          "id": "bouffant",
+          "name": "ESD Bouffant Cap",
+          "spec": "Hair containment",
+          "query": "cleanroom bouffant cap",
+          "image": "/manus-storage/bouffant_c2567d76.jpg"
+        },
+        {
+          "id": "gloves-nitrile",
+          "name": "ESD Nitrile Gloves",
+          "spec": "Powder-free \u00b7 dissipative",
+          "query": "ESD nitrile gloves blue",
+          "image": "/manus-storage/gloves-nitrile_5d5540df.jpg"
+        },
+        {
+          "id": "gloves-poly",
+          "name": "ESD Polyester Palm-Coated Gloves",
+          "spec": "PU palm \u00b7 conductive fiber",
+          "query": "ESD palm coated gloves",
+          "image": "/manus-storage/gloves-poly_92fcfa56.jpg"
+        },
+        {
+          "id": "finger-cots",
+          "name": "ESD Finger Cots",
+          "spec": "Powder-free \u00b7 antistatic",
+          "query": "ESD finger cots",
+          "image": "/manus-storage/finger-cots_9984e11c.jpg"
+        },
+        {
+          "id": "sleeves",
+          "name": "ESD Sleeves / Arm Cuffs",
+          "spec": "Conductive forearm cover",
+          "query": "ESD sleeves arm cover",
+          "image": "/manus-storage/sleeves_a402cb15.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bench-mats",
+      "name": "Worksurface Mats",
+      "blurb": "Static-dissipative bench matting and accessories that create a grounded work surface at every station.",
+      "products": [
+        {
+          "id": "mat-rubber-2l",
+          "name": "2-Layer Rubber Bench Mat",
+          "spec": "Heat-resistant rubber",
+          "query": "ESD rubber bench mat blue",
+          "image": "/manus-storage/mat-rubber-2l_418cfe09.jpg"
+        },
+        {
+          "id": "mat-vinyl-3l",
+          "name": "3-Layer Vinyl Bench Mat",
+          "spec": "Dissipative vinyl",
+          "query": "ESD vinyl table mat",
+          "image": "/manus-storage/mat-vinyl-3l_0a7d0056.jpg"
+        },
+        {
+          "id": "mat-roll",
+          "name": "Bench Matting Roll Stock",
+          "spec": "Bulk roll \u00b7 cut to size",
+          "query": "ESD matting roll",
+          "image": "/manus-storage/mat-roll_108b08d5.jpg"
+        },
+        {
+          "id": "mat-ground-cord",
+          "name": "Mat Grounding Cord",
+          "spec": "Snap to common point",
+          "query": "ESD mat grounding cord",
+          "image": "/manus-storage/mat-ground-cord_9b0a23b6.jpg"
+        },
+        {
+          "id": "mat-snap-kit",
+          "name": "Mat Snap & Ground Kit",
+          "spec": "Snaps + hardware",
+          "query": "ESD mat snap kit",
+          "image": "/manus-storage/mat-snap-kit_c5600c0a.jpg"
+        },
+        {
+          "id": "mat-cleaner",
+          "name": "Antistatic Mat Cleaner",
+          "spec": "Residue-free cleaner",
+          "query": "antistatic mat cleaner spray bottle",
+          "image": "/manus-storage/mat-cleaner_ecab7b96.jpg"
+        }
+      ]
+    },
+    {
+      "id": "floor-matting",
+      "name": "Floor Matting & Flooring",
+      "blurb": "Conductive floor mats, runners, tiles, and finishes that ground operators through their footwear.",
+      "products": [
+        {
+          "id": "floor-vinyl",
+          "name": "Conductive Vinyl Floor Mat",
+          "spec": "Dissipative vinyl",
+          "query": "ESD conductive floor mat",
+          "image": "/manus-storage/floor-vinyl_1853f921.jpg"
+        },
+        {
+          "id": "floor-antifatigue",
+          "name": "Anti-Fatigue Conductive Mat",
+          "spec": "Cushioned \u00b7 dissipative",
+          "query": "anti fatigue ESD floor mat",
+          "image": "/manus-storage/floor-antifatigue_71cab58a.jpg"
+        },
+        {
+          "id": "floor-rubber",
+          "name": "Anti-Fatigue Rubber Matting",
+          "spec": "Heavy-duty rubber",
+          "query": "ESD rubber floor matting",
+          "image": "/manus-storage/floor-rubber_8d7ecb1a.jpg"
+        },
+        {
+          "id": "floor-tile",
+          "name": "Conductive Floor Tile",
+          "spec": "Interlocking tile",
+          "query": "ESD conductive floor tile",
+          "image": "/manus-storage/floor-tile_1c88bfcf.jpg"
+        },
+        {
+          "id": "floor-finish",
+          "name": "ESD Floor Finish / Coating",
+          "spec": "Static-dissipative wax",
+          "query": "ESD floor finish coating bottle",
+          "image": "/manus-storage/floor-finish_a3a57410.jpg"
+        },
+        {
+          "id": "floor-ground-cord",
+          "name": "Floor Mat Grounding Cord",
+          "spec": "Floor ground hardware",
+          "query": "ESD floor mat grounding cord",
+          "image": "/manus-storage/floor-ground-cord_4a786534.jpg"
+        }
+      ]
+    },
+    {
+      "id": "packaging",
+      "name": "ESD Packaging \u2014 Bags & Film",
+      "blurb": "The full range of shielding, moisture-barrier, conductive, and antistatic packaging for protecting devices in storage and transit.",
+      "products": [
+        {
+          "id": "bag-shield-metalin",
+          "name": "Metal-In Static Shielding Bag",
+          "spec": "Faraday cage shielding",
+          "query": "static shielding bag metal in silver",
+          "image": "/manus-storage/bag-shield-metalin_fe903735.jpg"
+        },
+        {
+          "id": "bag-shield-metalout",
+          "name": "Metal-Out Static Shielding Bag",
+          "spec": "External metal layer",
+          "query": "metal out static shielding bag",
+          "image": "/manus-storage/bag-shield-metalout_5e0bd03a.jpg"
+        },
+        {
+          "id": "bag-mbb-foil",
+          "name": "Moisture Barrier Bag (Foil)",
+          "spec": "High barrier \u00b7 MIL-PRF-81705",
+          "query": "moisture barrier bag foil MBB",
+          "image": "/manus-storage/bag-mbb-foil_1aadc4b3.jpg"
+        },
+        {
+          "id": "bag-mbb-alum",
+          "name": "Moisture Barrier Bag (Aluminum)",
+          "spec": "Low barrier aluminized",
+          "query": "aluminized moisture barrier bag",
+          "image": "/manus-storage/bag-mbb-alum_da7da2c4.jpg"
+        },
+        {
+          "id": "bag-conductive",
+          "name": "Conductive Bag (Black)",
+          "spec": "Carbon-loaded poly",
+          "query": "black conductive ESD bag",
+          "image": "/manus-storage/bag-conductive_23af4f51.jpg"
+        },
+        {
+          "id": "bag-antistatic-pink",
+          "name": "Antistatic Bag (Pink Poly)",
+          "spec": "Low-charging pink poly",
+          "query": "pink antistatic poly bag",
+          "image": "/manus-storage/bag-antistatic-pink_cb5bfe00.jpg"
+        },
+        {
+          "id": "bag-cushioned",
+          "name": "Cushioned Shielding Bag",
+          "spec": "Bubble + shielding",
+          "query": "cushioned static shielding bag",
+          "image": "/manus-storage/bag-cushioned_a5b43f3c.jpg"
+        },
+        {
+          "id": "bag-ziptop",
+          "name": "Reclosable Zip-Top ESD Bag",
+          "spec": "Resealable shielding",
+          "query": "zip top static shielding bag",
+          "image": "/manus-storage/bag-ziptop_5a3b5890.jpg"
+        },
+        {
+          "id": "film-shield",
+          "name": "Static Shielding Film Roll",
+          "spec": "Roll stock \u00b7 custom",
+          "query": "static shielding film roll",
+          "image": "/manus-storage/film-shield_7077d6e2.jpg"
+        },
+        {
+          "id": "tubing-conductive",
+          "name": "Conductive Film & Tubing",
+          "spec": "Layflat tubing",
+          "query": "conductive layflat tubing film",
+          "image": "/manus-storage/tubing-conductive_79af9c40.jpg"
+        }
+      ]
+    },
+    {
+      "id": "moisture-control",
+      "name": "Moisture Control",
+      "blurb": "Desiccants, indicator cards, and sealing tools that keep moisture-sensitive devices within spec inside barrier packaging.",
+      "products": [
+        {
+          "id": "desiccant-silica",
+          "name": "Silica Gel Desiccant Packs",
+          "spec": "Various unit sizes",
+          "query": "silica gel desiccant packs",
+          "image": "/manus-storage/desiccant-silica_4270aec6.jpg"
+        },
+        {
+          "id": "desiccant-clay",
+          "name": "Clay Desiccant",
+          "spec": "Montmorillonite clay",
+          "query": "clay desiccant pack",
+          "image": "/manus-storage/desiccant-clay_928717a3.jpg"
+        },
+        {
+          "id": "hic-reversible",
+          "name": "Humidity Indicator Card (HIC)",
+          "spec": "Reversible \u00b7 10-60% RH",
+          "query": "humidity indicator card HIC",
+          "image": "/manus-storage/hic-reversible_5131f092.jpg"
+        },
+        {
+          "id": "hic-plug",
+          "name": "Humidity Indicator Plug",
+          "spec": "Container-mount",
+          "query": "humidity indicator plug",
+          "image": "/manus-storage/hic-plug_3254e852.jpg"
+        },
+        {
+          "id": "mbb-label",
+          "name": "Moisture Barrier / MSL Label",
+          "spec": "MSL caution labels",
+          "query": "moisture sensitive label MSL",
+          "image": "/manus-storage/mbb-label_a327a4eb.jpg"
+        },
+        {
+          "id": "vacuum-sealer",
+          "name": "Vacuum Sealer for MBB",
+          "spec": "Heat + vacuum seal",
+          "query": "vacuum sealer moisture barrier bag",
+          "image": "/manus-storage/vacuum-sealer_948c989e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "handling-storage",
+      "name": "Component Handling & Storage",
+      "blurb": "Dissipative bins, trays, tubes, foam, and containers that protect components on the line and in the stockroom.",
+      "products": [
+        {
+          "id": "bin-esd",
+          "name": "ESD Storage Bin",
+          "spec": "Dissipative polymer",
+          "query": "ESD storage bin black",
+          "image": "/manus-storage/bin-esd_a7daff57.jpg"
+        },
+        {
+          "id": "tote-esd",
+          "name": "ESD Tote / Container",
+          "spec": "Stackable conductive",
+          "query": "ESD tote container black",
+          "image": "/manus-storage/tote-esd_6d3af2c9.jpg"
+        },
+        {
+          "id": "box-corrugated",
+          "name": "Conductive Corrugated Box",
+          "spec": "Dissipative corrugated",
+          "query": "conductive corrugated box black",
+          "image": "/manus-storage/box-corrugated_96495af8.jpg"
+        },
+        {
+          "id": "ic-tube",
+          "name": "IC Shipping Tube / Rail",
+          "spec": "Antistatic tube",
+          "query": "IC shipping tube antistatic",
+          "image": "/manus-storage/ic-tube_baa74cc8.jpg"
+        },
+        {
+          "id": "jedec-tray",
+          "name": "JEDEC Matrix Tray",
+          "spec": "High-temp dissipative",
+          "query": "JEDEC matrix tray",
+          "image": "/manus-storage/jedec-tray_b9d468ef.jpg"
+        },
+        {
+          "id": "kitting-tray",
+          "name": "Dissipative Kitting Tray",
+          "spec": "Ultra-clean tray",
+          "query": "ESD kitting tray",
+          "image": "/manus-storage/kitting-tray_76123322.jpg"
+        },
+        {
+          "id": "foam-conductive",
+          "name": "Conductive Pin-Insertion Foam",
+          "spec": "Black conductive foam",
+          "query": "conductive ESD foam black",
+          "image": "/manus-storage/foam-conductive_6197889e.jpg"
+        },
+        {
+          "id": "foam-dissipative",
+          "name": "Dissipative Cushion Foam",
+          "spec": "Pink antistatic foam",
+          "query": "pink antistatic foam",
+          "image": "/manus-storage/foam-dissipative_0993cfdc.jpg"
+        },
+        {
+          "id": "bubble-esd",
+          "name": "Antistatic Bubble Wrap",
+          "spec": "Pink dissipative bubble",
+          "query": "pink antistatic bubble wrap",
+          "image": "/manus-storage/bubble-esd_4227cb92.jpg"
+        },
+        {
+          "id": "pcb-holder",
+          "name": "PCB Holder / Rack",
+          "spec": "Dissipative board rack",
+          "query": "ESD PCB rack holder",
+          "image": "/manus-storage/pcb-holder_b5df7fd8.jpg"
+        },
+        {
+          "id": "wafer-carrier",
+          "name": "Wafer Carrier / Box",
+          "spec": "Cleanroom wafer box",
+          "query": "wafer carrier box semiconductor",
+          "image": "/manus-storage/wafer-carrier_76968f3e.jpg"
+        },
+        {
+          "id": "doc-holder",
+          "name": "ESD Document Holder",
+          "spec": "Shielding pouch",
+          "query": "ESD document holder pouch",
+          "image": "/manus-storage/doc-holder_172805a2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "grounding-hardware",
+      "name": "Grounding Hardware",
+      "blurb": "Common ground points, cords, snaps, and connectors that tie every workstation back to a verified earth ground.",
+      "products": [
+        {
+          "id": "common-ground-point",
+          "name": "Common Ground Point / Bonding Plug",
+          "spec": "Bench bonding block",
+          "query": "ESD common ground point bonding plug",
+          "image": "/manus-storage/common-ground-point_746c238b.jpg"
+        },
+        {
+          "id": "bench-ground-cord",
+          "name": "Bench Ground Cord",
+          "spec": "Resistored cord",
+          "query": "ESD bench ground cord",
+          "image": "/manus-storage/bench-ground-cord_ba781cd3.jpg"
+        },
+        {
+          "id": "floor-ground-cord-hw",
+          "name": "Floor Ground Cord",
+          "spec": "Floor mat to ground",
+          "query": "ESD floor ground cord",
+          "image": "/manus-storage/floor-ground-cord-hw_8fa3058d.jpg"
+        },
+        {
+          "id": "ground-snap-kit",
+          "name": "Ground Snap & Snap Kit",
+          "spec": "10mm snaps + tools",
+          "query": "ESD ground snap kit",
+          "image": "/manus-storage/ground-snap-kit_4f897a3b.jpg"
+        },
+        {
+          "id": "banana-adapter",
+          "name": "Banana Plug Adapter",
+          "spec": "Plug conversion",
+          "query": "banana plug adapter ground",
+          "image": "/manus-storage/banana-adapter_19fa9969.jpg"
+        },
+        {
+          "id": "outlet-adapter",
+          "name": "Ground Plug (Outlet) Adapter",
+          "spec": "AC outlet ground",
+          "query": "ground plug adapter outlet",
+          "image": "/manus-storage/outlet-adapter_f3971b2d.jpg"
+        },
+        {
+          "id": "cart-ground-cable",
+          "name": "Mobile Cart Grounding Cable",
+          "spec": "Drag chain / cable",
+          "query": "mobile cart grounding cable",
+          "image": "/manus-storage/cart-ground-cable_f11a98ea.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ionization",
+      "name": "Ionization",
+      "blurb": "Air ionizers that neutralize static on insulators and isolated conductors that cannot be grounded.",
+      "products": [
+        {
+          "id": "ionizer-bench-fan",
+          "name": "Benchtop Fan Ionizer",
+          "spec": "Single/dual fan",
+          "query": "benchtop ionizer fan ESD",
+          "image": "/manus-storage/ionizer-bench-fan_600ffb62.jpg"
+        },
+        {
+          "id": "ionizer-bench-ac",
+          "name": "Benchtop AC Ionizer",
+          "spec": "Steady-state AC",
+          "query": "benchtop AC ionizer",
+          "image": "/manus-storage/ionizer-bench-ac_b6e64579.jpg"
+        },
+        {
+          "id": "ionizer-blower",
+          "name": "Ionized Air Blower",
+          "spec": "High airflow",
+          "query": "ionized air blower",
+          "image": "/manus-storage/ionizer-blower_0bd84965.jpg"
+        },
+        {
+          "id": "ionizer-overhead",
+          "name": "Overhead Ionizing Bar",
+          "spec": "Ceiling-mount bar",
+          "query": "overhead ionizing bar",
+          "image": "/manus-storage/ionizer-overhead_0417719d.jpg"
+        },
+        {
+          "id": "ionizer-gun",
+          "name": "Ionizing Air Gun",
+          "spec": "Handheld blow-off",
+          "query": "ionizing air gun",
+          "image": "/manus-storage/ionizer-gun_d723df35.jpg"
+        },
+        {
+          "id": "ionizer-nozzle",
+          "name": "Ionizing Air Nozzle",
+          "spec": "In-line nozzle",
+          "query": "ionizing air nozzle",
+          "image": "/manus-storage/ionizer-nozzle_14e6fe70.jpg"
+        }
+      ]
+    },
+    {
+      "id": "test-instruments",
+      "name": "Test & Monitoring Instruments",
+      "blurb": "Verification and audit instruments that prove the ESD program works \u2014 from daily wrist-strap checks to full facility surveys.",
+      "products": [
+        {
+          "id": "ws-tester",
+          "name": "Wrist Strap Tester",
+          "spec": "Daily go/no-go test",
+          "query": "ESD wrist strap tester",
+          "image": "/manus-storage/ws-tester_54708fca.jpg"
+        },
+        {
+          "id": "combo-tester",
+          "name": "Wrist Strap + Footwear Combo Tester",
+          "spec": "Dual test station",
+          "query": "ESD combo wrist foot tester",
+          "image": "/manus-storage/combo-tester_52ec3d8e.jpg"
+        },
+        {
+          "id": "cont-monitor",
+          "name": "Continuous Workstation Monitor",
+          "spec": "Real-time operator monitor",
+          "query": "ESD continuous workstation monitor",
+          "image": "/manus-storage/cont-monitor_be6b5503.jpg"
+        },
+        {
+          "id": "ground-monitor",
+          "name": "Equipment Ground Monitor",
+          "spec": "Tool/equipment ground",
+          "query": "ESD equipment ground monitor",
+          "image": "/manus-storage/ground-monitor_af5c4bfb.jpg"
+        },
+        {
+          "id": "srm-meter",
+          "name": "Surface Resistance Meter",
+          "spec": "Point-to-point \u03a9",
+          "query": "surface resistance meter ESD",
+          "image": "/manus-storage/srm-meter_c0f1a930.jpg"
+        },
+        {
+          "id": "field-meter",
+          "name": "Static Field Meter",
+          "spec": "Electrostatic voltmeter",
+          "query": "static field meter ESD",
+          "image": "/manus-storage/field-meter_4d367b77.jpg"
+        },
+        {
+          "id": "cpm",
+          "name": "Charged Plate Monitor",
+          "spec": "Ionizer verification",
+          "query": "charged plate monitor ionizer",
+          "image": "/manus-storage/cpm_91e9f2c8.jpg"
+        },
+        {
+          "id": "event-meter",
+          "name": "ESD Event Detector",
+          "spec": "Event logging",
+          "query": "ESD event detector meter",
+          "image": "/manus-storage/event-meter_5d8188ea.jpg"
+        },
+        {
+          "id": "survey-kit",
+          "name": "ESD Survey / Audit Kit",
+          "spec": "Complete audit set",
+          "query": "ESD survey audit kit case",
+          "image": "/manus-storage/survey-kit_7a340fbb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "esd-tools",
+      "name": "ESD-Safe Tools",
+      "blurb": "Static-safe hand tools and cleanroom vacuums for technicians working directly on sensitive assemblies.",
+      "products": [
+        {
+          "id": "tweezers",
+          "name": "ESD Tweezers",
+          "spec": "Dissipative tips",
+          "query": "ESD tweezers black",
+          "image": "/manus-storage/tweezers_ec634f7f.jpg"
+        },
+        {
+          "id": "pliers-cutters",
+          "name": "ESD Pliers & Cutters",
+          "spec": "Dissipative grips",
+          "query": "ESD pliers cutters",
+          "image": "/manus-storage/pliers-cutters_fffb5422.jpg"
+        },
+        {
+          "id": "screwdrivers",
+          "name": "ESD Screwdriver Set",
+          "spec": "Dissipative handles",
+          "query": "ESD screwdriver set",
+          "image": "/manus-storage/screwdrivers_5ca5720f.jpg"
+        },
+        {
+          "id": "brushes",
+          "name": "ESD Conductive Brush",
+          "spec": "Conductive bristle",
+          "query": "ESD conductive brush black",
+          "image": "/manus-storage/brushes_aed928df.jpg"
+        },
+        {
+          "id": "scissors",
+          "name": "ESD Scissors",
+          "spec": "Dissipative handle",
+          "query": "ESD scissors",
+          "image": "/manus-storage/scissors_ca507321.jpg"
+        },
+        {
+          "id": "vacuum-esd",
+          "name": "ESD-Safe Cleanroom Vacuum",
+          "spec": "HEPA \u00b7 dissipative",
+          "query": "ESD cleanroom vacuum",
+          "image": "/manus-storage/vacuum-esd_3d045263.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cleaning-consumables",
+      "name": "Cleaning & Consumables",
+      "blurb": "Cleanroom-grade wipes, swabs, and cleaners that keep workstations contamination-free and static-safe.",
+      "products": [
+        {
+          "id": "wipes-cleanroom",
+          "name": "Cleanroom Wipes",
+          "spec": "Low-particulate polyester",
+          "query": "cleanroom wipes white pack",
+          "image": "/manus-storage/wipes-cleanroom_bf872ed9.jpg"
+        },
+        {
+          "id": "wipes-presat",
+          "name": "Pre-Saturated IPA Wipes",
+          "spec": "70% IPA presat",
+          "query": "pre saturated IPA wipes cleanroom",
+          "image": "/manus-storage/wipes-presat_7e71e572.jpg"
+        },
+        {
+          "id": "wipes-antistatic",
+          "name": "Antistatic Surface Wipes",
+          "spec": "Dissipative cleaning",
+          "query": "antistatic wipes",
+          "image": "/manus-storage/wipes-antistatic_d5707f30.jpg"
+        },
+        {
+          "id": "swabs",
+          "name": "Cleanroom Swabs",
+          "spec": "Foam / polyester tip",
+          "query": "cleanroom foam swabs",
+          "image": "/manus-storage/swabs_164fd9d4.jpg"
+        },
+        {
+          "id": "cleaner-spray",
+          "name": "ESD-Safe Surface Cleaner",
+          "spec": "Antistatic cleaner",
+          "query": "antistatic surface cleaner spray",
+          "image": "/manus-storage/cleaner-spray_3866fa4f.jpg"
+        }
+      ]
+    },
+    {
+      "id": "labels-signage",
+      "name": "Labels, Signs & Workspace ID",
+      "blurb": "EPA demarcation, caution labels, tapes, and signage that define and protect the ESD-protected area.",
+      "products": [
+        {
+          "id": "label-caution",
+          "name": "ESD Caution Label",
+          "spec": "Component warning",
+          "query": "ESD caution label sticker",
+          "image": "/manus-storage/label-caution_488d8372.jpg"
+        },
+        {
+          "id": "label-rohs",
+          "name": "RoHS Label",
+          "spec": "Compliance marking",
+          "query": "RoHS label sticker",
+          "image": "/manus-storage/label-rohs_57aa0b40.jpg"
+        },
+        {
+          "id": "aisle-tape",
+          "name": "Aisle / Floor Marking Tape",
+          "spec": "EPA demarcation",
+          "query": "aisle marking floor tape yellow",
+          "image": "/manus-storage/aisle-tape_0f5acdc3.jpg"
+        },
+        {
+          "id": "epa-sign",
+          "name": "EPA Protected Area Sign",
+          "spec": "Entrance signage",
+          "query": "ESD protected area sign EPA",
+          "image": "/manus-storage/epa-sign_bde2426a.jpg"
+        },
+        {
+          "id": "esd-tape",
+          "name": "Conductive / Grid ESD Tape",
+          "spec": "Antistatic adhesive",
+          "query": "ESD grid tape",
+          "image": "/manus-storage/esd-tape_cfa8f934.jpg"
+        },
+        {
+          "id": "ground-symbol",
+          "name": "Ground Symbol Sticker",
+          "spec": "Identification",
+          "query": "ground symbol sticker",
+          "image": "/manus-storage/ground-symbol_8df2a955.jpg"
+        }
+      ]
+    }
+  ]
+}
